@@ -1,0 +1,26 @@
+# Source: https://github.com/nicarr/smart-block
+# Last update: 2022-01-26
+0.0.0.0 api-global.netflix.com
+:: api-global.netflix.com
+0.0.0.0 cdn-0.nflximg.com
+:: cdn-0.nflximg.com
+0.0.0.0 customerevents.netflix.com
+:: customerevents.netflix.com
+0.0.0.0 ichnaea.netflix.com
+:: ichnaea.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+:: nrdp.nccp.netflix.com
+0.0.0.0 nrdp.prod.ftl.netflix.com
+:: nrdp.prod.ftl.netflix.com
+0.0.0.0 nrdp51-appboot.netflix.com
+:: nrdp51-appboot.netflix.com
+0.0.0.0 nrdp52-appboot.netflix.com
+:: nrdp52-appboot.netflix.com
+0.0.0.0 occ-0-2412-784.1.nflxso.net
+:: occ-0-2412-784.1.nflxso.net
+0.0.0.0 preapp.prod.partner.netflix.net
+:: preapp.prod.partner.netflix.net
+0.0.0.0 secure.netflix.com
+:: secure.netflix.com
+0.0.0.0 uiboot.netflix.com
+:: uiboot.netflix.com

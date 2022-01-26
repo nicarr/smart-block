@@ -1,0 +1,58 @@
+# Source: https://github.com/nicarr/smart-block
+# Last update: 2022-01-26
+# 0.0.0.0 cdn.samsungcloudsolution.com
+# :: cdn.samsungcloudsolution.com
+0.0.0.0 config.samsungads.com
+:: config.samsungads.com
+0.0.0.0 device-metrics-us.amazon.com
+:: device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
+:: device-metrics-us-2.amazon.com
+0.0.0.0 empdownprd.samsungcloudsolution.com
+:: empdownprd.samsungcloudsolution.com
+0.0.0.0 gld.push.samsungosp.com
+:: gld.push.samsungosp.com
+0.0.0.0 gpm.samsungqbe.com
+:: gpm.samsungqbe.com
+0.0.0.0 img-resize-cdn-prod.samsungsync.com
+:: img-resize-cdn-prod.samsungsync.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+:: lcprd1.samsungcloudsolution.net
+0.0.0.0 mediaservices.cdn-apple.com
+:: mediaservices.cdn-apple.com
+0.0.0.0 notice.samsungcloudsolution.com
+:: notice.samsungcloudsolution.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
+:: noticecdn.samsungcloudsolution.com
+0.0.0.0 oempprd.samsungcloudsolution.com
+:: oempprd.samsungcloudsolution.com
+# 0.0.0.0 osb-v2.samsungqbe.com
+# :: osb-v2.samsungqbe.com
+0.0.0.0 osb-apps-v2.samsungqbe.com
+:: osb-apps-v2.samsungqbe.com
+0.0.0.0 osb-eusvc-v2.samsungqbe.com
+:: osb-eusvc-v2.samsungqbe.com
+0.0.0.0 osb-tnc-v2-appsacc.samsungqbe.com
+:: osb-tnc-v2-appsacc.samsungqbe.com
+0.0.0.0 provisioning-use2.mgmt.aibixby.com
+:: provisioning-use2.mgmt.aibixby.com
+0.0.0.0 selfsigned.ueiwsp.com
+:: selfsigned.ueiwsp.com
+0.0.0.0 sb.scorecardresearch.com
+:: sb.scorecardresearch.com
+0.0.0.0 scs.samsungqbe.com
+:: scs.samsungqbe.com
+# 0.0.0.0 time.samsungcloudsolution.com
+# :: time.samsungcloudsolution.com
+0.0.0.0 tls.samsungqbe.com
+:: tls.samsungqbe.com
+0.0.0.0 tvx.adgrx.com
+:: tvx.adgrx.com
+0.0.0.0 tvpndynamiclogopeu.samsungcloud.tv
+:: tvpndynamiclogopeu.samsungcloud.tv
+0.0.0.0 tvpnlinupepgpeu.samsungcloud.tv
+:: tvpnlinupepgpeu.samsungcloud.tv
+0.0.0.0 www.ueiwsp.com
+:: www.ueiwsp.com
+0.0.0.0 unagi-na.amazon.com
+:: unagi-na.amazon.com

@@ -1,0 +1,4 @@
+# Source: https://github.com/nicarr/smart-block
+# Last update: 2022-01-26
+^.*?netflix\.(com|net)
+^.*?nflximg\.(com|net)
