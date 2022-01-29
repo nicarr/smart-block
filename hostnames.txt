@@ -1,5 +1,5 @@
 # Source: https://github.com/nicarr/smart-block
-# Last update: 2022-01-26
+# Last update: 2022-01-29
 # 0.0.0.0 cdn.samsungcloudsolution.com
 # :: cdn.samsungcloudsolution.com
 0.0.0.0 config.samsungads.com
@@ -16,6 +16,8 @@
 :: gpm.samsungqbe.com
 0.0.0.0 img-resize-cdn-prod.samsungsync.com
 :: img-resize-cdn-prod.samsungsync.com
+0.0.0.0 italy.scorecardresearch.com
+:: italy.scorecardresearch.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 :: lcprd1.samsungcloudsolution.net
 0.0.0.0 mediaservices.cdn-apple.com
