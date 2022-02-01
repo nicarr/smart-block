@@ -1,5 +1,5 @@
 # Source: https://github.com/nicarr/smart-block
-# Last update: 2022-01-26
+# Last update: 2022-02-01
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
@@ -7,7 +7,7 @@
 ^adtrack(er|ing)?[0-9]*[_.-]
 ^advert(s|is(ing|ements?))?[0-9]*[_.-]
 ^aff(iliat(es?|ion))?[_.-]
-^analytics?[_.-]
+^.*?analytics.*$
 ^banners?[_.-]
 ^beacons?[0-9]*[_.-]
 ^count(ers?)?[0-9]*[_.-]
